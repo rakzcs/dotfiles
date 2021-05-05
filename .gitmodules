@@ -1,0 +1,3 @@
+[submodule "estonian-keyboard-mac"]
+	path = estonian-keyboard-mac
+	url = https://github.com/pyyding/estonian-keyboard-mac

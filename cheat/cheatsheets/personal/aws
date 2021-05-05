@@ -1,0 +1,2 @@
+# How to update EKS cluster
+aws eks update-kubeconfig --name myCluster

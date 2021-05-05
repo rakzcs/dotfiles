@@ -1,0 +1,2 @@
+# Get token
+aws eks get-token --cluster-name tst | jq -r '.status.token'
